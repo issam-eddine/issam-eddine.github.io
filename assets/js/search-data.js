@@ -23,15 +23,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-langchain-simple-example",
+        },{id: "post-simple-example",
         
-          title: "langchain simple example",
+          title: "simple example",
         
-        description: "a simple example of how to use langchain",
+        description: "simple example",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/langchain-simple-example/";
+            window.location.href = "/blog/2025/simple-example/";
           
         },
       },{id: "projects-machine-learning-for-trading",
