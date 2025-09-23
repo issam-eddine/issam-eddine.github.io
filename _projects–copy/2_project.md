@@ -4,9 +4,15 @@ title: project 2
 description: a project with a background image and giscus comments
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: learning
 giscus_comments: true
 ---
+
+Let us learn the basics of Langchain using this github repository: [langchain-simple-example](https://github.com/issam-eddine/langchain-simple-example).
+
+This repository showcases the use of langchain to create an agent that can respond to queries. It can use tools for searching Wikipedia and saving the results to a file.
+
+A simple example of how to use langchain to invoke an LLM:
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
