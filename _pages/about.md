@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Oxford, United Kingdom
+subtitle: Machine Learning Quantitative Researcher
 
 profile:
   align: right
@@ -26,8 +26,6 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 4 # leave blank to include all the blog posts
 ---
-
-<!-- I am a Machine Learning Quantitative Researcher. -->
 
 Here is the link to my github: [github](https://github.com/issam-eddine/).
 
