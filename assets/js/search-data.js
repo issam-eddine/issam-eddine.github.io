@@ -36,7 +36,7 @@ ninja.data = [{
         },
       },{id: "projects-machine-learning-for-trading",
           title: 'machine learning for trading',
-          description: "learning about machine learning for trading",
+          description: "about machine learning for trading",
           section: "Projects",handler: () => {
               window.location.href = "/projects/01_project/";
             },},{
