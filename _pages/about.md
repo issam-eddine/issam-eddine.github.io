@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Machine Learning Quantitative Researcher
+subtitle: 
 
 profile:
   align: right
