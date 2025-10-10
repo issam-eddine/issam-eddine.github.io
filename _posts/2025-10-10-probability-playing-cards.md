@@ -27,7 +27,7 @@ A – What is the expected value of a randomly drawn card from a standard deck? 
 
 ## ♦️ Diamond Suit – classical and conditional probability
 
-- A – A standard deck of cards is shuffed. What is the chance that the third card from the top is either a diamond or an ace?
+A – A standard deck of cards is shuffed. What is the chance that the third card from the top is either a diamond or an ace?
 
 {% details Hint %}
 .
@@ -41,7 +41,7 @@ A – What is the expected value of a randomly drawn card from a standard deck? 
 
 ## ♥️ Heart Suit – geometric probability
 
-- A – A tiny model airplane has gotten stuck inside an inflatable, spherical beach ball of radius 1 and is flying around randomly. When you stop and look, what is the probability that the plane is closer to the center of the ball than to the outside?
+A – A tiny model airplane has gotten stuck inside an inflatable, spherical beach ball of radius 1 and is flying around randomly. When you stop and look, what is the probability that the plane is closer to the center of the ball than to the outside?
 
 {% details Hint %}
 .
@@ -55,7 +55,7 @@ A – What is the expected value of a randomly drawn card from a standard deck? 
 
 ## ♠️ Spade Suit – random walks and martingales
 
-- A – Two crabs are facing each other on the beach. Each second they randomly walk one step to the right or one step to the left (independently). After 6 seconds, what is the chance they are still across from each other?
+A – Two crabs are facing each other on the beach. Each second they randomly walk one step to the right or one step to the left (independently). After 6 seconds, what is the chance they are still across from each other?
 
 {% details Hint %}
 .
@@ -66,12 +66,3 @@ A – What is the expected value of a randomly drawn card from a standard deck? 
 {% enddetails %}
 
 ---
-
-## Details boxes
-
-Details boxes are collapsible boxes which hide additional information from the user. They can be added with the `details` liquid tag:
-
-{% details Click here to know more %}
-Additional details, where math $$ 2x - 1 $$ and `code` is rendered correctly.
-{% enddetails %}
-
