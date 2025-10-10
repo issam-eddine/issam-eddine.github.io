@@ -23,15 +23,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-title",
+        },{id: "post-probability-playing-cards",
         
-          title: "title",
+          title: "probability playing cards",
         
-        description: "description",
+        description: "probability playing cards",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/simple-example/";
+            window.location.href = "/blog/2025/probability-playing-cards/";
           
         },
       },{id: "projects-machine-learning-for-trading",
