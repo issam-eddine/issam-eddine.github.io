@@ -23,13 +23,37 @@ related_posts: false
 
 # ♦️ Diamond Suit – classical and conditional probability
 
-- A – A standard deck of cards is shuffed. What is the chance that the third card from the top is either a diamond or an ace? Answer: 16/52 = 4/13.
+- A – A standard deck of cards is shuffed. What is the chance that the third card from the top is either a diamond or an ace?
+
+{% details Hint %}
+.
+{% enddetails %}
+
+{% details Answer %}
+16/52 = 4/13
+{% enddetails %}
 
 # ♥️ Heart Suit – geometric probability
 
-- A – A tiny model airplane has gotten stuck inside an inflatable, spherical beach ball of radius 1 and is flying around randomly. When you stop and look, what is the probability that the plane is closer to the center of the ball than to the outside? Answer: 1/8.
+- A – A tiny model airplane has gotten stuck inside an inflatable, spherical beach ball of radius 1 and is flying around randomly. When you stop and look, what is the probability that the plane is closer to the center of the ball than to the outside?
+
+{% details Hint %}
+.
+{% enddetails %}
+
+{% details Answer %}
+1/8
+{% enddetails %}
 
 # ♠️ Spade Suit – random walks and martingales
 
-- A – Two crabs are facing each other on the beach. Each second they randomly walk one step to the right or one step to the left (independently). After 6 seconds, what is the chance they are still across from each other? Answer: 924/4096 = 22.5%.
+- A – Two crabs are facing each other on the beach. Each second they randomly walk one step to the right or one step to the left (independently). After 6 seconds, what is the chance they are still across from each other?
+
+{% details Hint %}
+.
+{% enddetails %}
+
+{% details Answer %}
+924/4096 = 22.5%
+{% enddetails %}
 
