@@ -23,11 +23,11 @@ A – What is the expected value of a randomly drawn card from a standard deck? 
 .
 {% enddetails %}
 
-<br>
-
 {% details Answer %}
 14, and 14
 {% enddetails %}
+
+<br>
 
 ---
 
@@ -41,11 +41,11 @@ A – A standard deck of cards is shuffed. What is the chance that the third car
 .
 {% enddetails %}
 
-<br>
-
 {% details Answer %}
 16/52 = 4/13
 {% enddetails %}
+
+<br>
 
 ---
 
@@ -59,11 +59,11 @@ A – A tiny model airplane has gotten stuck inside an inflatable, spherical bea
 .
 {% enddetails %}
 
-<br>
-
 {% details Answer %}
 1/8
 {% enddetails %}
+
+<br>
 
 ---
 
@@ -77,10 +77,10 @@ A – Two crabs are facing each other on the beach. Each second they randomly wa
 .
 {% enddetails %}
 
-<br>
-
 {% details Answer %}
 924/4096 = 22.5%
 {% enddetails %}
+
+<br>
 
 ---
