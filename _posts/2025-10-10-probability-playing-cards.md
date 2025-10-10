@@ -7,6 +7,8 @@ tags: probability statistics
 categories: learning
 featured: false
 related_posts: false
+toc:
+  sidebar: left
 ---
 
 ---
@@ -15,9 +17,13 @@ related_posts: false
 
 A – What is the expected value of a randomly drawn card from a standard deck? If you draw two cards randomly, what is the expected value of their sum? (A = 1, J = 11, Q = 12, K = 13)
 
+<br>
+
 {% details Hint %}
 .
 {% enddetails %}
+
+<br>
 
 {% details Answer %}
 14, and 14
@@ -29,9 +35,13 @@ A – What is the expected value of a randomly drawn card from a standard deck? 
 
 A – A standard deck of cards is shuffed. What is the chance that the third card from the top is either a diamond or an ace?
 
+<br>
+
 {% details Hint %}
 .
 {% enddetails %}
+
+<br>
 
 {% details Answer %}
 16/52 = 4/13
@@ -43,9 +53,13 @@ A – A standard deck of cards is shuffed. What is the chance that the third car
 
 A – A tiny model airplane has gotten stuck inside an inflatable, spherical beach ball of radius 1 and is flying around randomly. When you stop and look, what is the probability that the plane is closer to the center of the ball than to the outside?
 
+<br>
+
 {% details Hint %}
 .
 {% enddetails %}
+
+<br>
 
 {% details Answer %}
 1/8
@@ -57,9 +71,13 @@ A – A tiny model airplane has gotten stuck inside an inflatable, spherical bea
 
 A – Two crabs are facing each other on the beach. Each second they randomly walk one step to the right or one step to the left (independently). After 6 seconds, what is the chance they are still across from each other?
 
+<br>
+
 {% details Hint %}
 .
 {% enddetails %}
+
+<br>
 
 {% details Answer %}
 924/4096 = 22.5%
