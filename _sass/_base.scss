@@ -909,7 +909,7 @@ html.transition,
 html.transition *,
 html.transition *:before,
 html.transition *:after {
-  transition: all 750ms !important;
+  transition: all 50ms !important;
   transition-delay: 0 !important;
 }
 
