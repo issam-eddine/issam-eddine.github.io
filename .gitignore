@@ -11,3 +11,7 @@ assets/libs/
 node_modules/
 vendor
 .idea
+
+.DS_store
+_posts-saved/
+_projects-saved/
